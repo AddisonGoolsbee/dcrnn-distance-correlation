@@ -1,3 +1,5 @@
+*This is a mirror. See upstream: https://github.com/kakduman/dcrnn-distance-correlation*
+
 This repository contains the code for the DCRNNs based on distance and correlation described in the [Yale CPSC 483/583 Final Project](/Yale_CPSC_483_583__Deep_Learning_on_Graph_Structured_Data__Fall_2024_.pdf)
 
 To run the code, follow the steps below while running Python 3.10.0
